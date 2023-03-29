@@ -32,6 +32,7 @@ Write an efficient algorithm for the following assumptions:
 - String S is made only of lowercase letters (a-z).
   
 ### Solution:
+```python
     def solutions(word):
 
       i = 0
