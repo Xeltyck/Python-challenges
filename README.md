@@ -42,7 +42,7 @@ Write an efficient algorithm for the following assumptions:
       while j <= len(word):
           x = j
           y = x+2
-          digrams.append(word[i:j]) #Slicing indexing works a bit different. 
+          digrams.append(word[i:j])
           while y <= len(word):
             
               if word[x:y] == word[i:j]:
