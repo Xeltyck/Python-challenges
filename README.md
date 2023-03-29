@@ -1,4 +1,4 @@
-# Python-challenges
+# Python challenges
 
 ## 1. Digram finder
 
